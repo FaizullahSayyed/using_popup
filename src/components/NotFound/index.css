@@ -1,0 +1,8 @@
+.image-container {
+  flex-direction: column;
+  font-family: roboto;
+}
+
+.image {
+  width: 80%;
+}

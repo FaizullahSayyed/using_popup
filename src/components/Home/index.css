@@ -1,0 +1,12 @@
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75vh;
+}
+
+@media screen and (orientation: landscape) {
+  .image {
+    max-width: 200px;
+  }
+}
